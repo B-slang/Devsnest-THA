@@ -33,3 +33,14 @@
 -99deg
 );
 }
+
+.line3{
+    position: absolute;
+    top: 58%;
+    left: 46%;
+    width: 90px;
+    height: 2px;
+    background: #262626;
+    transform: rotate( 
+-82deg);
+}
