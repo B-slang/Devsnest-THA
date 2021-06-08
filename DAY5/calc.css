@@ -1,0 +1,31 @@
+.mid{
+width: 300px;
+margin-left: 400px;
+margin-top: 150px;
+}
+
+#num1,#num2{
+    width: 400px;
+}
+
+.mid1{
+    display: flex;
+    
+    
+    position: absolute;
+    
+    left: 42%;
+}
+
+input{
+    font-size: large;
+
+}
+button{
+    font-size: 30px;
+    
+}
+#result{
+    margin-left: 400px;
+
+}
