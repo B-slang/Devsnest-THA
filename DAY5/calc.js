@@ -3,8 +3,8 @@ const getvalues = () => {
   num1 = document.getElementById("num1");
   num2 = document.getElementById("num2");
   resultObject = {
-    num1: num1,
-    num2: num2,
+    "num1": num1,
+    "num2": num2,
   };
   return resultObject;
 };
