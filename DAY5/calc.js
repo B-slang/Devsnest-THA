@@ -1,4 +1,6 @@
 //yaha se value
+
+
 const getvalues = () => {
   num1 = document.getElementById("num1");
   num2 = document.getElementById("num2");
