@@ -18,3 +18,17 @@ body{
     color:#FFFFFF;
 }
 
+.welcome{
+    background-color: brown;
+    width: 400px;
+
+}
+
+.welcome-f input,
+.welcome-f button{
+    display:block;
+    width: 100%;
+}
+
+
+
